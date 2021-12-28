@@ -39,7 +39,7 @@ button {
   text-align: center;
   vertical-align: middle;
   font-size: 18px;
-  width: 300px;
+  width: 320px;
   font-weight: 700;
   line-height: 48px;
   letter-spacing: 0.1px;
@@ -364,4 +364,12 @@ button:hover,
   background-color: #026466 }
 .button.button-xing:hover,
 .button.button-xing:focus {
+  filter: brightness(90%) }
+
+/* Google Forms */
+.button.button-googleforms {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-googleforms:hover,
+.button.button-googleforms:focus {
   filter: brightness(90%) }
