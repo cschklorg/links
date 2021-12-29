@@ -373,3 +373,11 @@ button:hover,
 .button.button-googleforms:hover,
 .button.button-googleforms:focus {
   filter: brightness(90%) }
+
+/* Website */
+.button.button-website {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-website:hover,
+.button.button-website:focus {
+  filter: brightness(90%) }
